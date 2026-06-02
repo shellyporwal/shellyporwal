@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**shellyporwal/shellyporwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Shelly Porwal 👋
 
-Here are some ideas to get you started:
+🎓 BSc in Programming and Data Science at IIT Chennai
+📊 Aspiring Data Analyst | Business Analyst | Power BI Enthusiast
+📍 India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am passionate about transforming raw data into actionable business insights. My interests lie in data analytics, business intelligence, KPI reporting, and data-driven decision making.
+
+I have hands-on experience with SQL, Power BI, Excel, Python, and Pandas through academic projects, case studies, and industry simulations. I enjoy analyzing complex datasets, identifying trends, and presenting insights through interactive dashboards and reports.
+
+## Technical Skills
+
+* SQL
+* Power BI
+* Excel
+* Python
+* Pandas
+* DAX
+* Statistical Analysis
+* Data Modeling
+* Data Visualization
+
+
+
